@@ -105,7 +105,6 @@ Provides conversational financial guidance.
 ```bash
 SmartFin-AI/
 │
-├── app.py
 │
 ├── pages/
 │   ├── Dashboard.py
@@ -125,6 +124,7 @@ SmartFin-AI/
 │
 ├── database/
 │   └── smartfin.db
+│   └── app.py
 │
 ├── data/
 │
@@ -283,18 +283,6 @@ Unlike traditional expense trackers, SmartFin AI uses an **Agentic AI architectu
 
 This transforms the application from a simple tracker into an **AI-powered financial decision support system**.
 
----
-
-## 👨‍💻 Developed By
-
-Built as an Agentic AI and Machine Learning project to demonstrate:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Financial Technology
-- Multi-Agent Systems
-- Full-Stack Python Development
 
 ---
 
